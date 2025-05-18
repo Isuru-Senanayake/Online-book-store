@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Madol Doova",
+      "author": "Martin Wickramasinghe",
+      "price": 750
+    },
+    {
+      "id": 2,
+      "title": "Gamperaliya",
+      "author": "Martin Wickramasinghe",
+      "price": 850
+    },
+    {
+      "id": 3,
+      "title": "Viragaya",
+      "author": "Martin Wickramasinghe",
+      "price": 900
+    }
+  ]
+}
